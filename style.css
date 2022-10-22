@@ -1,5 +1,9 @@
+*{
+    font-family: monospace, sans-serif;
+}
+
 h1{
-    color:rgb(240, 179, 179);
+    color:rgb(240, 179, 179);  
 }
 h2{
     color:rgb(58, 58, 58);
